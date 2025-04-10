@@ -1,8 +1,6 @@
 # S5-QuickProxy
 
-**Project Description:**
 
-S5-QuickProxy is a lightweight, secure SOCKS5 proxy deployment tool that allows you to quickly set up a reliable proxy server on any Debian/Ubuntu-based Linux system. This bash script automates the installation and configuration of the Dante SOCKS server with username/password authentication, making it ideal for secure internet access, bypassing network restrictions, or enhancing privacy.
 
 ## Features
 
